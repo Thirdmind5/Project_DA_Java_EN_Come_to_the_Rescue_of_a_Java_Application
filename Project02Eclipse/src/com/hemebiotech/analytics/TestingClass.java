@@ -6,7 +6,10 @@ import java.util.List;
 
 public class TestingClass {
 	
-	
+	/**
+	 * 
+	 * This is a test class for testing two methods of AnalyticsCounter
+	 */
 	
 	public static void main(String[] args) {
 		System.out.println("This class is to test functions in AnalyticsCounter Class");

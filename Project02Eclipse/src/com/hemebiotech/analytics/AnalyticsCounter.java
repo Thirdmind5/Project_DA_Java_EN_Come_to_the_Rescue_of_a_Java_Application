@@ -93,7 +93,7 @@ public class AnalyticsCounter {
 		
 		
 		try {
-	         BufferedWriter out = new BufferedWriter(new FileWriter("D:\\outfilename"));
+	         BufferedWriter out = new BufferedWriter(new FileWriter("D:\\results.out"));
 	         
 	         for( HashMap.Entry<String,Integer> me : symptomsCounter.entrySet()){
 	 			
